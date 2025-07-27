@@ -3,15 +3,16 @@
 🎨 Love crafting cool UIs & 🛠️ solving real-world problems<br>
 
 <br>
-- 🎓 Studying Software Engineering at Noakhali Science and Technology University (NSTU)  
-- 🌱 I’m currently learning Full Stack Web Development  
-- 👨‍💻 I explore and build projects on GitHub  
-- 🛠 All of my projects are available [here](https://github.com/nishagithub245)  
-- 📫 Reach me at: [muntahanisha70@gmail.com](mailto:muntahanisha70@gmail.com)  
-- 🌐 Know about me: [View Portfolio](https://github.com/nishagithub245/My_Portfolio)
+- 🎓 **Studying** Software Engineering at Noakhali Science and Technology University (NSTU)  <br>
+- 🌱 **Currently Learning** Full Stack Web Development   <br>
+- 👨‍💻 **Exploring & Building Projects** on GitHub   <br>
+- 🛠 **All of My Projects:** [View on GitHub](https://github.com/nishagithub245) <br>  
+- 📫 **Reach Me At:** [muntahanisha70@gmail.com](mailto:muntahanisha70@gmail.com)  <br> 
+- 🌐 **Know About Me:** [View Portfolio](https://github.com/nishagithub245/My_Portfolio) <br>
 
 
 🛠️ Languages & Tools
+<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
