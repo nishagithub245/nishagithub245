@@ -4,13 +4,12 @@
 🎨 Love crafting cool UIs & 🛠️ solving real-world problems
 
 <br>
-- 🎓 **Studying** Software Engineering at Noakhali Science and Technology University (NSTU)  <br>
-- 🌱 **Currently Learning** Full Stack Web Development   <br>
-- 👨‍💻 **Exploring & Building Projects** on GitHub   <br>
-- 🛠 **All of My Projects:** [View on GitHub] <br>  
-- 📫 **Reach Me At:** [muntahanisha70@gmail.com]  <br> 
-- 🌐 **Know About Me:** [View Portfolio] <br>
-
+- 🎓 **Studying** Software Engineering at Noakhali Science and Technology University (NSTU)  
+- 🌱 **Currently Learning** Full Stack Web Development  
+- 👨‍💻 **Exploring & Building Projects** on GitHub  
+- 🛠 **All of My Projects:** [View on GitHub](https://github.com/nishagithub245)  
+- 📫 **Reach Me At:** [muntahanisha70@gmail.com](mailto:muntahanisha70@gmail.com)  
+- 🌐 **Know About Me:** [View Portfolio](https://github.com/nishagithub245/My_Portfolio)
 
 🛠️ Languages & Tools
 <br><br>
