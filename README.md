@@ -1,6 +1,7 @@
- Hi👋,I'm Sidratul Muntaha Nisha
-☕ Turning coffee into code — one commit at a time 
-🎨 Love crafting cool UIs & 🛠️ solving real-world problems<br>
+## **Hi 👋, I'm Sidratul Muntaha Nisha**
+
+☕ Turning coffee into code — one commit at a time  
+🎨 Love crafting cool UIs & 🛠️ solving real-world problems
 
 <br>
 - 🎓 **Studying** Software Engineering at Noakhali Science and Technology University (NSTU)  <br>
@@ -12,14 +13,12 @@
 
 
 🛠️ Languages & Tools
-<br>
+<br><br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2396F3?style=for-the-badge&logo=responsive&logoColor=white)
 ![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AJAX](https://img.shields.io/badge/AJAX-0054A6?style=for-the-badge&logo=javascript&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge&logo=api&logoColor=white)
 ![CSS Flexbox & Grid](https://img.shields.io/badge/Flexbox_&_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Web Accessibility](https://img.shields.io/badge/Web%20Accessibility-000000?style=for-the-badge&logo=w3c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
