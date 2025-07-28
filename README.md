@@ -39,13 +39,13 @@
 
 🤝 Let's Get in Touch
 
-<div align="center">
+<div align="left">
  
   <a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 15px;"/>
   </a>
  
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href=https://www.facebook.com/sidratulmuntaha.nisha.1/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" alt="Facebook" style="margin-right: 15px;"/>
   </a>
   <a href="https://github.com/nishagithub245" target="_blank">
