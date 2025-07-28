@@ -39,16 +39,21 @@
 
 🤝 Let's Get in Touch
 
+<!-- GitHub -->
 <a href="https://github.com/nishagithub245" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="30" height="30">
-</a>
-<a href="https://x.com/MuntahaNisha" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" alt="X" width="30" height="30">
-</a>
-<a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
 </a>
 
+
+<!-- X (Twitter) -->
+<a href="https://x.com/MuntahaNisha" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="30" height="30">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a>
 
 
 
