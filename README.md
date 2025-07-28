@@ -45,9 +45,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 15px;"/>
   </a>
  
-  <a href=https://www.facebook.com/sidratulmuntaha.nisha.1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" alt="Facebook" style="margin-right: 15px;"/>
-  </a>
+ <a href="https://www.facebook.com/sidratulmuntaha.nisha.1/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" />
+</a>
   <a href="https://github.com/nishagithub245" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
   </a>
