@@ -40,21 +40,18 @@
 🤝 Let's Get in Touch
 
 <div align="center">
-  <!-- GitHub with background -->
-  <a href="https://github.com/nishagithub245" target="_blank" style="margin-right: 10px;">
-    <div style="display:inline-block; background-color:#f0f0f0; border-radius:50%; padding:6px;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </div>
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/MuntahaNisha" target="_blank" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" alt="X" />
-  </a>
-
-  <!-- LinkedIn -->
+  <p style="font-size: 24px; font-weight: bold;">Let's Get in Touch 👋</p>
   <a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://x.com/MuntahaNisha" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="40" height="40" alt="X (Twitter)" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" alt="Facebook" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://github.com/nishagithub245" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
   </a>
 </div>
 
