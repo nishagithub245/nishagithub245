@@ -39,9 +39,15 @@
 
 🤝 Let's Get in Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/nishagithub245)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MuntahaNisha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/)
+<a href="https://github.com/nishagithub245" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="30" height="30">
+</a>
+<a href="https://x.com/MuntahaNisha" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" alt="X" width="30" height="30">
+</a>
+<a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
 
 
 
