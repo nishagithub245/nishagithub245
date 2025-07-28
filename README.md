@@ -42,14 +42,14 @@
 <div align="left">
  
   <a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 15px;"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn" style="margin-right: 15px;"/>
   </a>
  
  <a href="https://www.facebook.com/sidratulmuntaha.nisha.1/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook"  width="40" height="40" alt="LinkedIn" style="margin-right: 15px; />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook"  width="30" height="30" alt="LinkedIn" style="margin-right: 15px; />
 </a>
   <a href="https://github.com/nishagithub245" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub" />
   </a>
 </div>
 
