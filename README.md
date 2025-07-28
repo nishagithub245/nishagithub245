@@ -39,21 +39,23 @@
 
 🤝 Let's Get in Touch
 
-<!-- GitHub -->
+<!-- GitHub with background color -->
 <a href="https://github.com/nishagithub245" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
+  <div style="display:inline-block; background-color:#f5f5f5; border-radius:50%; padding:6px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </div>
 </a>
 
-
-<!-- X (Twitter) -->
+<!-- X -->
 <a href="https://x.com/MuntahaNisha" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" alt="X" />
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sidratul-muntaha-nisha-936218253/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
+
 
 
 
